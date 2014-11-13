@@ -18,7 +18,7 @@ Blogging engine with simple posting/commennting functionality
 
 ### API project
 #### Nadia Saleh, Fish Milnikiewicz
-Use IMDb and Rotten Tomatoes APIs to compare two actors’ filmographies
+Use Rotten Tomatoes APIs to compare two movies' ratings
 #### https://github.com/crabalockerfishwife/api-project-fish-nadia.git
 
 ## Mini Projects
