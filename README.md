@@ -32,3 +32,9 @@ Use Rotten Tomatoes APIs to compare two movies' ratings
  * intro-proj 1
   * Nadia Saleh, Veronika Azzara
   * 7/intro-proj1/veronika_nadia_maps
+* To-Do List
+  * Nadia Saleh
+  * 7/todo/nadia
+* Invisible Cow
+  * Nadia Saleh
+  * 7/cow/nadia
