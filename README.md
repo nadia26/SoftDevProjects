@@ -28,13 +28,13 @@ Use Rotten Tomatoes APIs to compare two movies' ratings
   * 7/mongoproj/nadia-veronika
  * regexp
   * Nadia Saleh, Justin Strauss
-	* 7/regexp/jstrauss_nsaleh
+  * 7/regexp/jstrauss_nsaleh
  * intro-proj 1
   * Nadia Saleh, Veronika Azzara
   * 7/intro-proj1/veronika_nadia_maps
-* To-Do List
+ * To-Do List
   * Nadia Saleh
   * 7/todo/nadia
-* Invisible Cow
+ * Invisible Cow
   * Nadia Saleh
   * 7/cow/nadia
