@@ -21,6 +21,10 @@ Blogging engine with simple posting/commennting functionality
 Use Rotten Tomatoes APIs to compare two movies' ratings
 #### https://github.com/crabalockerfishwife/api-project-fish-nadia.git
 
+### Final Project
+#### Nadia Saleh, Fish Milnikiewicz, Claire Burghard, Veronica Azzara
+#### https://github.com/crabalockerfishwife/semester-one-project
+
 ## Mini Projects
 
  * login
