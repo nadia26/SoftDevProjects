@@ -6,7 +6,7 @@ Period 7
 
 ## Main Projects
 
-### Language Interpreter/Data Scrapting
+### Language Interpreter/Data Scraping
 #### Nadia Saleh, Barak Zhou, Albert Yeung, David Liang
 Used my Regex name-finding code, and new date-finding regex, and scraped google results to answer basic questions
 #### https://github.com/nadia26/queryproject.git
